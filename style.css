@@ -1,0 +1,145 @@
+body {
+    background-color: rgb(255, 255, 255);
+}
+
+.navbar {
+    background-color: white;
+}
+
+.nav li {
+    float: right;
+}
+.nav li a {
+    display: block;
+    color: rgb(10, 10, 10);
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+  }
+
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #ffffff;
+  }
+
+  img {
+    position: relative;
+    top: 228px;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 16%;
+  }
+
+#serch-btn {
+  border: none;
+  margin: 0;
+  padding: 0;
+  word-wrap: break-word;
+  outline: none;
+  display: flex;
+  flex: 100%;
+  -webkit-tap-highlight-color: transparent;
+  margin-top: -37px;
+  height: 34px;
+  font-size: 16px;
+  width: 555px;
+  max-width: 608px;
+  height: 54px;
+  /* border-radius: 103px; */
+  position: relative;
+  top: 37px;
+  /* left: 278px; */
+  /* border-style: ridge; */
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.serch {
+  position: relative;
+  top: 240px;
+  width: 650px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-style: ridge;
+  height: 53px;
+  border-radius: 103px;
+  z-index: 1000;
+}
+
+.iblpc {
+  width: 25px;
+  position: relative;
+  top: -3px;
+  left: 7px;
+}
+
+.dRYYxd {
+  top: -20px;
+  left: -9px;
+  position: relative;
+  float: right;
+}
+
+.nav .g_ult2{
+  font-style: oblique;
+  background-color: #3481ff;
+  border-radius: 10px;
+  font-family: sans-serif;
+  font-weight: 600;
+}
+.lang {
+  display: block;
+    margin-left: auto;
+    margin-right: auto;
+    position: absolute;
+    top: 500px;
+    left: 657px;
+}
+.lang #SIvCob {
+  position: relative;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+
+
+
+
+
+
+
+
+
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+
+.footer .uU7dJb {
+  background-color: rgb(187, 186, 186);
+  color: rgb(0, 0, 0);
+  height: 40px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.footer h4{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  position: relative;
+  top: 12px;
+  left: 18px;
+}
